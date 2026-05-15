@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" role="img" aria-labelledby="title desc">
+  <title id="title">NepX mentor collaboration stage</title>
+  <desc id="desc">A warm illustration of a Nepal Innovate stage, mentor pods, and builders collaborating.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#d9e0cd"/>
+    </linearGradient>
+    <linearGradient id="stage" x1="0" x2="1">
+      <stop offset="0" stop-color="#20211d"/>
+      <stop offset="1" stop-color="#596f3d"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="724" height="584" rx="28" fill="url(#sky)" stroke="#ded6c4" stroke-width="2"/>
+  <path d="M64 268 190 126l94 104 78-86 118 128 70-72 146 164v58H64z" fill="#e6d8bc"/>
+  <path d="M94 290 190 182l76 84 60-66 108 116 44-46 136 152H94z" fill="#d59b36" opacity=".28"/>
+  <rect x="86" y="332" width="588" height="150" rx="22" fill="url(#stage)"/>
+  <rect x="122" y="360" width="196" height="88" rx="14" fill="#fffaf0"/>
+  <rect x="346" y="360" width="192" height="88" rx="14" fill="#fffaf0"/>
+  <rect x="562" y="360" width="76" height="88" rx="14" fill="#fffaf0"/>
+  <path d="M144 416h152M144 392h106M368 416h132M368 392h88" stroke="#c64734" stroke-width="10" stroke-linecap="round"/>
+  <path d="M586 391h28M586 419h28" stroke="#0f766e" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="166" cy="514" r="28" fill="#c64734"/>
+  <circle cx="266" cy="514" r="28" fill="#0f766e"/>
+  <circle cx="366" cy="514" r="28" fill="#596f3d"/>
+  <circle cx="466" cy="514" r="28" fill="#d59b36"/>
+  <circle cx="566" cy="514" r="28" fill="#983827"/>
+  <path d="M126 574c18-34 62-34 80 0M226 574c18-34 62-34 80 0M326 574c18-34 62-34 80 0M426 574c18-34 62-34 80 0M526 574c18-34 62-34 80 0" stroke="#20211d" stroke-width="14" stroke-linecap="round"/>
+  <rect x="156" y="74" width="448" height="66" rx="16" fill="#20211d"/>
+  <text x="380" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="800" fill="#fffaf0">Nepal Innovate 2024</text>
+  <circle cx="118" cy="102" r="20" fill="#c64734"/>
+  <circle cx="642" cy="102" r="20" fill="#0f766e"/>
+</svg>

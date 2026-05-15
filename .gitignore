@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.codex
 
 # testing
 /coverage
@@ -27,6 +28,9 @@ yarn-error.log*
 # local env files
 .env*.local
 .env
+
+# local Codex/MCP secrets
+.codex/config.toml
 
 # vercel
 .vercel
