@@ -5,7 +5,7 @@ import { Icon } from "../components";
 export const metadata: Metadata = {
   title: "Registration",
   description:
-    "Register your team for Nepal Innovate 2024, the 48-hour startup hackathon for +2 students in Nepal.",
+    "Register your team for Nepal Innovate 2026, the 48-hour startup hackathon for +2 students in Nepal.",
   alternates: { canonical: "/register" },
 };
 

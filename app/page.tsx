@@ -4,7 +4,7 @@ import { Eyebrow, Icon, Tag } from "./components";
 import { CountdownTimer } from "./countdown-timer";
 
 export const metadata: Metadata = {
-  title: "Nepal Innovate 2024 | Startup Hackathon for +2 Students",
+  title: "Nepal Innovate 2026 | Startup Hackathon for +2 Students",
   description:
     "A 48-hour startup hackathon for +2 students in Nepal, with mentors, tracks, prizes, and a clear path from idea to prototype.",
   alternates: { canonical: "/" },

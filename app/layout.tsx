@@ -20,14 +20,14 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://nepx.org";
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Nepal Innovate 2024 | Startup Hackathon for +2 Students",
-    template: "%s | Nepal Innovate 2024",
+    default: "Nepal Innovate 2026 | Startup Hackathon for +2 Students",
+    template: "%s | Nepal Innovate 2026",
   },
   description:
-    "Nepal Innovate 2024 is a 48-hour startup hackathon for +2 students in Nepal, with mentors, tracks, resources, and registration.",
+    "Nepal Innovate 2026 is a 48-hour startup hackathon for +2 students in Nepal, with mentors, tracks, resources, and registration.",
   applicationName: "NepX",
   keywords: [
-    "Nepal Innovate 2024",
+    "Nepal Innovate 2026",
     "NepX",
     "Nepal hackathon",
     "+2 students Nepal",
@@ -38,11 +38,11 @@ export const metadata: Metadata = {
   creator: "NepX",
   publisher: "NepX",
   openGraph: {
-    title: "Nepal Innovate 2024",
+    title: "Nepal Innovate 2026",
     description:
       "A 48-hour startup hackathon for +2 students in Nepal.",
     url: "/",
-    siteName: "Nepal Innovate 2024",
+    siteName: "Nepal Innovate 2026",
     type: "website",
     locale: "en_US",
     images: [
@@ -50,13 +50,13 @@ export const metadata: Metadata = {
         url: "/opengraph-image",
         width: 1200,
         height: 630,
-        alt: "Nepal Innovate 2024 hackathon",
+        alt: "Nepal Innovate 2026 hackathon",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nepal Innovate 2024",
+    title: "Nepal Innovate 2026",
     description:
       "Build the future of Nepal through a 48-hour student startup hackathon.",
     images: ["/twitter-image"],

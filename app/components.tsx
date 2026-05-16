@@ -63,7 +63,7 @@ export function SiteHeader() {
     <header className="site-header">
       <nav className="site-nav" aria-label="Primary navigation">
         <Link className="site-brand" href="/">
-          Nepal Innovate 2024
+          Nepal Innovate 2026
         </Link>
         <div className="nav-items">
           {navItems.map((item) => (
@@ -91,10 +91,10 @@ export function SiteFooter() {
       <div className="footer-inner">
         <div className="footer-about">
           <Link className="site-brand" href="/">
-            Nepal Innovate 2024
+            Nepal Innovate 2026
           </Link>
           <p>
-            (c) 2024 Nepal Innovate Hackathon. Empowering +2 students to build
+            (c) 2026 Nepal Innovate Hackathon. Empowering +2 students to build
             the future of Nepal.
           </p>
           <div className="social-row" aria-label="Social links">

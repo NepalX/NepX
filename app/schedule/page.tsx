@@ -6,7 +6,7 @@ import { timeline, tracks } from "../data";
 export const metadata: Metadata = {
   title: "Schedule and Tracks",
   description:
-    "Explore the Nepal Innovate 2024 event timeline, challenge tracks, workshops, and team-building schedule.",
+    "Explore the Nepal Innovate 2026 event timeline, challenge tracks, workshops, and team-building schedule.",
   alternates: { canonical: "/schedule" },
 };
 

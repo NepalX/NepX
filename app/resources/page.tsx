@@ -6,7 +6,7 @@ import { faqs } from "../data";
 export const metadata: Metadata = {
   title: "FAQ and Resources",
   description:
-    "Rules, frequently asked questions, developer tools, design assets, and support resources for Nepal Innovate 2024 participants.",
+    "Rules, frequently asked questions, developer tools, design assets, and support resources for Nepal Innovate 2026 participants.",
   alternates: { canonical: "/resources" },
 };
 

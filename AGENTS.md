@@ -1,13 +1,13 @@
 <claude-mem-context>
 # Memory Context
 
-# [NepX] recent context, 2026-05-16 8:43am GMT+5:45
+# [NepX] recent context, 2026-05-16 8:50am GMT+5:45
 
 Legend: 🎯session 🔴bugfix 🟣feature 🔄refactor ✅change 🔵discovery ⚖️decision 🚨security_alert 🔐security_note
 Format: ID TIME TYPE TITLE
 Fetch details: get_observations([IDs]) | Search: mem-search skill
 
-Stats: 17 obs (7,238t read) | 469,043t work | 98% savings
+Stats: 22 obs (9,417t read) | 569,578t work | 98% savings
 
 ### May 15, 2026
 283 9:21p 🔵 NepX Project Is a Bare Repository With No Next.js Setup
@@ -27,6 +27,12 @@ Stats: 17 obs (7,238t read) | 469,043t work | 98% savings
 297 " 🟣 NepX Nepal Innovate 2024 Mentor Showcase Site Fully Scaffolded
 298 9:56p 🟣 Complete Multi-Page Design Spec Provided to Codex for Nepal Innovate 2024
 299 " 🟣 Centralized Data Layer and Shared Component Library Created
+300 10:02p 🟣 Live Countdown Timer to May 30 2026 Requested for Home Page
+### May 16, 2026
+301 8:43a 🔵 Countdown Component Structure Mapped Before Live Timer Implementation
+302 8:44a 🟣 Live Countdown Timer Client Component Targeting May 30 2026
+303 " 🔵 Spurious TS2307 Error on `tsc --noEmit` When `.next/` Types Are Stale
+304 " 🟣 Live Countdown Timer Build Verified — All 12 Routes Still Static
 
-Access 469k tokens of past work via get_observations([IDs]) or mem-search skill.
+Access 570k tokens of past work via get_observations([IDs]) or mem-search skill.
 </claude-mem-context>

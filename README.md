@@ -1,6 +1,6 @@
 # NepX
 
-SEO-friendly Next.js website for Nepal Innovate 2024, a startup hackathon for +2 students in Nepal.
+SEO-friendly Next.js website for Nepal Innovate 2026, a startup hackathon for +2 students in Nepal.
 
 ## Development
 

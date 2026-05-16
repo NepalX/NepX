@@ -6,7 +6,7 @@ import { judges, mentors } from "../data";
 export const metadata: Metadata = {
   title: "Mentors and Judges",
   description:
-    "Meet the Nepal Innovate 2024 mentors and finale jury guiding student teams across technology, design, business, and impact.",
+    "Meet the Nepal Innovate 2026 mentors and finale jury guiding student teams across technology, design, business, and impact.",
   alternates: { canonical: "/mentors" },
 };
 

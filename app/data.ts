@@ -165,7 +165,7 @@ export const faqs = [
   {
     question: "Who can participate?",
     answer:
-      "Nepal Innovate 2024 is open to Grade 11 and 12 students currently enrolled in Nepal. Students from science, management, humanities, and other streams are welcome.",
+      "Nepal Innovate 2026 is open to Grade 11 and 12 students currently enrolled in Nepal. Students from science, management, humanities, and other streams are welcome.",
   },
   {
     question: "How do I form a team?",
@@ -180,6 +180,6 @@ export const faqs = [
   {
     question: "Is there a registration fee?",
     answer:
-      "No. Nepal Innovate 2024 is free for selected participants, with meals, swag, and workshops supported by sponsors.",
+      "No. Nepal Innovate 2026 is free for selected participants, with meals, swag, and workshops supported by sponsors.",
   },
 ];

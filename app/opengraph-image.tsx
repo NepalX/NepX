@@ -40,7 +40,7 @@ export default function Image() {
           >
             NX
           </div>
-          <div style={{ fontSize: 34, fontWeight: 800 }}>Nepal Innovate 2024</div>
+          <div style={{ fontSize: 34, fontWeight: 800 }}>Nepal Innovate 2026</div>
         </div>
         <div
           style={{
