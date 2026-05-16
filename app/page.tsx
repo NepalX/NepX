@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Eyebrow, Icon, Tag } from "./components";
+import { CountdownTimer } from "./countdown-timer";
 
 export const metadata: Metadata = {
   title: "Nepal Innovate 2024 | Startup Hackathon for +2 Students",
@@ -24,18 +25,7 @@ export default function Home() {
               Join brilliant young builders to solve Nepal's most pressing
               challenges.
             </p>
-            <div className="countdown" aria-label="Countdown">
-              {[
-                ["14", "Days", "primary"],
-                ["08", "Hours", "secondary"],
-                ["45", "Mins", "primary"],
-              ].map(([value, label, tone]) => (
-                <div className={`count-card ${tone}`} key={label}>
-                  <strong>{value}</strong>
-                  <span>{label}</span>
-                </div>
-              ))}
-            </div>
+            <CountdownTimer />
             <div className="action-row">
               <Link className="button" href="/register">
                 Start Your Journey
@@ -122,8 +112,8 @@ export default function Home() {
                   <Icon name="calendar" />
                 </span>
                 <div>
-                  <h3>August 15 - 17, 2024</h3>
-                  <p>The main event. 48 hours of focused building.</p>
+                  <h3>May 30, 2026</h3>
+                  <p>The main event day for focused building and pitching.</p>
                 </div>
               </div>
               <div>

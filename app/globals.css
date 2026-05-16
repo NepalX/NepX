@@ -322,6 +322,7 @@ p {
 
 .countdown {
   display: flex;
+  flex-wrap: wrap;
   gap: 16px;
   margin-block: 32px;
 }
@@ -1270,6 +1271,11 @@ p {
 
   .countdown {
     gap: 10px;
+  }
+
+  .count-card {
+    width: calc(50% - 5px);
+    min-width: 0;
   }
 
   .floating-prize {
